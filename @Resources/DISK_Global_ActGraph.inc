@@ -141,7 +141,7 @@ SolidColor=0,0,0,40
 
 [meterHeader]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\Header.png
+ImageName=#SKINSPATH#\SysInfo\img\Header.png
 X=0
 Y=0
 H=50
@@ -149,7 +149,7 @@ W=180
 
 [meterBody]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\Body.png
+ImageName=#SKINSPATH#\SysInfo\img\Body.png
 Tile=1
 X=0r
 Y=0R
@@ -158,7 +158,7 @@ W=180
 
 [meterFooter]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\Footer.png
+ImageName=#SKINSPATH#\SysInfo\img\Footer.png
 X=0
 Y=0R
 H=38
@@ -266,7 +266,7 @@ Numofdecimals=0
 
 [meterHLGraphBGRead]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\GraphBGHalf.png
+ImageName=#SKINSPATH#\SysInfo\img\GraphBGHalf.png
 X=15
 Y=-15R
 H=#graphH#
@@ -288,7 +288,7 @@ AutoScale=1
 
 [meterHLGraphBGWrite]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\GraphBGHalf.png
+ImageName=#SKINSPATH#\SysInfo\img\GraphBGHalf.png
 X=92
 Y=-41R
 H=#graphH#
@@ -335,7 +335,7 @@ Autoscale=1
 
 [meterHLGraphBG2]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\Graphbg.png
+ImageName=#SKINSPATH#\SysInfo\img\Graphbg.png
 X=15
 Y=2R
 H=#graphH#
@@ -358,7 +358,7 @@ MaxValue=100
 
 [meterHLBarCNet2BG]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\CoreBG.png
+ImageName=#SKINSPATH#\SysInfo\img\CoreBG.png
 X=2R
 Y=-1r
 H=#graphH#
@@ -370,7 +370,7 @@ MeterStyle=styleBarDiskWrite
 MeasureName=measureDiskIdleTime
 X=0r
 Y=0r
-Barimage=#SKINSPATH#\SystemInformation\img\Core4f.png
+Barimage=#SKINSPATH#\SysInfo\img\Core4f.png
 W=12
 H=#graphH#
  

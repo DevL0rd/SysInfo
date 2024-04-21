@@ -140,7 +140,7 @@ SolidColor=0,0,0,50
 
 [meterHeader]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\Header.png
+ImageName=#SKINSPATH#\SysInfo\img\Header.png
 X=0
 Y=0
 H=50
@@ -148,7 +148,7 @@ W=180
 
 [meterBody]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\Body.png
+ImageName=#SKINSPATH#\SysInfo\img\Body.png
 Tile=1
 X=0r
 Y=0R
@@ -157,7 +157,7 @@ W=180
 
 [meterFooter]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\Footer.png
+ImageName=#SKINSPATH#\SysInfo\img\Footer.png
 X=0
 Y=0R
 H=38
@@ -244,7 +244,7 @@ Numofdecimals=0
 
 [meterHLGraphBG]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\Graphbg.png
+ImageName=#SKINSPATH#\SysInfo\img\Graphbg.png
 X=15
 Y=-14R
 H=#graphH#
@@ -301,7 +301,7 @@ Numofdecimals=0
 
 [meterHLGraphBG2]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\Graphbg.png
+ImageName=#SKINSPATH#\SysInfo\img\Graphbg.png
 X=15
 Y=-14R
 H=#graphH#
@@ -323,7 +323,7 @@ AutoScale=1
 
 [meterHLBarCNet2BG]
 Meter=IMAGE
-ImageName=#SKINSPATH#\SystemInformation\img\ActivityBG.png
+ImageName=#SKINSPATH#\SysInfo\img\ActivityBG.png
 X=2R
 Y=-62r
 H=(#graphH# *2 + 19)
@@ -335,7 +335,7 @@ MeterStyle=styleBarDiskWrite
 MeasureName=measureDiskIdleTime
 X=0r
 Y=0r
-Barimage=#SKINSPATH#\SystemInformation\img\Activity1f.png
+Barimage=#SKINSPATH#\SysInfo\img\Activity1f.png
 W=12
 H=#graphH#
  
